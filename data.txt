@@ -1,2 +1,0 @@
-{"first_name": "mohammad", "last_name": "rahmani", "father_name": "I dont't know", "national_code": "043969554", "phone": "091912345678"}
-{"first_name": "abbass", "last_name": "morteza qholi", "father_name": "I don't know", "national_code": "0981234567", "phone": "091977777777"}
